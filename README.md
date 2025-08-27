@@ -15,8 +15,8 @@ It includes interactive elements like speech bubbles, waving animation, and a re
 ---
 
 ## 🚀 Live Demo
-👉 [Live Demo on GitHub Pages](https://nitesh-shaw-098.github.io/Doraemon/)  
-*(Replace `your-username` and `doraemon-project` with your GitHub repo name.)*
+👉 [Live Demo](https://nitesh-shaw-098.github.io/Doraemon/)  
+
 
 ---
 
@@ -73,4 +73,5 @@ It includes interactive elements like speech bubbles, waving animation, and a re
 ## 📝 License
 
 This project is open-source and available under the **MIT License**.
+
 
